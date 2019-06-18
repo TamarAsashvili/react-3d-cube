@@ -41,12 +41,33 @@ export default class CounterComponent extends React.Component {
           <div className="cube">
             <img
               style={{ background: "#ffb6c1", width: "200px", height: "200px" }}
+              alt="Tamar Asashvili"
             />
-            <img src={chania} style={{ width: "200px", height: "200px" }} />
-            <img src={limon} style={{ width: "200px", height: "200px" }} />
-            <img src={smart} style={{ width: "200px", height: "200px" }} />
-            <img src={pen} style={{ width: "200px", height: "200px" }} />
-            <img src={river} style={{ width: "200px", height: "200px" }} />
+            <img
+              src={chania}
+              style={{ width: "200px", height: "200px" }}
+              alt="chania"
+            />
+            <img
+              src={limon}
+              style={{ width: "200px", height: "200px" }}
+              alt="chania"
+            />
+            <img
+              src={smart}
+              style={{ width: "200px", height: "200px" }}
+              alt="chania"
+            />
+            <img
+              src={pen}
+              style={{ width: "200px", height: "200px" }}
+              alt="chania"
+            />
+            <img
+              src={river}
+              style={{ width: "200px", height: "200px" }}
+              alt="chania"
+            />
           </div>
         </div>
       </div>
